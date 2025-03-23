@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+serverhack.egg-info/PKG-INFO
+serverhack.egg-info/SOURCES.txt
+serverhack.egg-info/dependency_links.txt
+serverhack.egg-info/requires.txt
+serverhack.egg-info/top_level.txt
