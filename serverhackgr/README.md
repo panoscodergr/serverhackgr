@@ -7,4 +7,4 @@
 Για να εγκαταστήσετε τη βιβλιοθήκη:
 
 ```bash
-pip install my-http-lib
+pip install serverhackgr
